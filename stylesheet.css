@@ -1,0 +1,20 @@
+.profile-avatar {
+		float: left;
+    margin-top: 3px;
+    margin-left: -58px;
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+}
+
+.fullName {
+    word-break: break-all;
+    color: #14171a;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
